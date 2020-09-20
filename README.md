@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Jalbert</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinjalbert" alt="kevinjalbert" /> </p>
 
-### Blogs posts
+### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [My Dam Broke - Revisiting Content Consumption](https://kevinjalbert.com/my-dam-broke-revisiting-content-consumption/)
 - [Working From Home: Family, I'm Busy Now](https://kevinjalbert.com/working-from-home-family-im-busy-now/)
