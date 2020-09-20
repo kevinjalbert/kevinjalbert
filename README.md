@@ -3,6 +3,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Dam Broke - Revisiting Content Consumption](https://kevinjalbert.com/my-dam-broke-revisiting-content-consumption/)
+- [Working From Home: Family, I'm Busy Now](https://kevinjalbert.com/working-from-home-family-im-busy-now/)
+- [Improve Your Home Office - Miscellaneous Aspects](https://kevinjalbert.com/improve-your-home-office-the-miscellaneous-aspects/)
+- [Improve Your Home Office - Input/Output Devices](https://kevinjalbert.com/improve-your-home-office-the-input-output-devices/)
+- [Improve Your Home Office - Physical Space](https://kevinjalbert.com/improve-your-home-office-the-physical-space/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
