@@ -14,5 +14,5 @@
 <a href="https://linkedin.com/in/kevinjalbert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevinjalbert" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/583592" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="583592" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCFWPd8rky_tD4B4Qqq99i4Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/UCFWPd8rky_tD4B4Qqq99i4Q height="30" width="30" /></a>
-<a href="/https://kevinjalbert.com/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kevinjalbert.com/feed.xml" height="30" width="30" /></a>
+<a href="https://kevinjalbert.com/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kevinjalbert.com/feed.xml" height="30" width="30" /></a>
 </p>
