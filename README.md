@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Keep Active At Home](https://kevinjalbert.com/how-i-keep-active-at-home/)
 - [Wrapping Shell Commands and Keep the Original Name](https://kevinjalbert.com/wrapping-shell-commands-and-keep-the-original-name/)
 - [Reflecting on Five Years of Monthly Blogging](https://kevinjalbert.com/reflecting-on-five-years-of-monthly-blogging/)
 - [Using URL Scheme Links in Notion](https://kevinjalbert.com/using-url-scheme-links-in-notion/)
 - [Custom Notion iOS Widget](https://kevinjalbert.com/custom-notion-ios-widget/)
-- [Guided Access on iOS - A Hidden Gem](https://kevinjalbert.com/guided-access-on-ios-a-hidden-gem/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
