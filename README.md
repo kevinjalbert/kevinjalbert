@@ -3,7 +3,7 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [AppleScript to Mirror iPhone to QuickTime](https://kevinjalbert.com/applescript-to-mirror-iphone-to-quicktime/)
+- [AppleScript that Mirrors iPhone to QuickTime](https://kevinjalbert.com/applescript-that-mirrors-iphone-to-quicktime/)
 - [How I Keep Active At Home](https://kevinjalbert.com/how-i-keep-active-at-home/)
 - [Wrapping Shell Commands and Keep the Original Name](https://kevinjalbert.com/wrapping-shell-commands-and-keep-the-original-name/)
 - [Reflecting on Five Years of Monthly Blogging](https://kevinjalbert.com/reflecting-on-five-years-of-monthly-blogging/)
