@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keep a macOS Application Running using cron](https://kevinjalbert.com/keep-a-macos-application-running-using-cron/)
 - [AppleScript that Mirrors iPhone to QuickTime](https://kevinjalbert.com/applescript-that-mirrors-iphone-to-quicktime/)
 - [How I Keep Active At Home](https://kevinjalbert.com/how-i-keep-active-at-home/)
 - [Wrapping Shell Commands and Keep the Original Name](https://kevinjalbert.com/wrapping-shell-commands-and-keep-the-original-name/)
 - [Reflecting on Five Years of Monthly Blogging](https://kevinjalbert.com/reflecting-on-five-years-of-monthly-blogging/)
-- [Using URL Scheme Links in Notion](https://kevinjalbert.com/using-url-scheme-links-in-notion/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
