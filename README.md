@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rails Testing: Reload the Model](https://kevinjalbert.com/rails-testing-reloading-the-model/)
 - [Embrace Active Support without Rails](https://kevinjalbert.com/embrace-active-support-without-rails/)
 - [Keep a macOS Application Running using cron](https://kevinjalbert.com/keep-a-macos-application-running-using-cron/)
 - [AppleScript that Mirrors iPhone to QuickTime](https://kevinjalbert.com/applescript-that-mirrors-iphone-to-quicktime/)
 - [How I Keep Active At Home](https://kevinjalbert.com/how-i-keep-active-at-home/)
-- [Wrapping Shell Commands and Keep the Original Name](https://kevinjalbert.com/wrapping-shell-commands-and-keep-the-original-name/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
