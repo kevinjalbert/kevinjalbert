@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Watch's Walkie Talkie...? Nah, Just Call Me](https://kevinjalbert.com/apple-watchs-walkie-talkie-nah-just-call-me/)
 - [Document Storage: Migrating Evernote to Google Drive](https://kevinjalbert.com/document-storage-migrating-evernote-to-google-drive/)
 - [Stub Sleeps in Tests](https://kevinjalbert.com/stub-sleeps-in-tests/)
 - [Rails Testing: Reload the Model](https://kevinjalbert.com/rails-testing-reloading-the-model/)
 - [Embrace Active Support without Rails](https://kevinjalbert.com/embrace-active-support-without-rails/)
-- [Keep a macOS Application Running using cron](https://kevinjalbert.com/keep-a-macos-application-running-using-cron/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
