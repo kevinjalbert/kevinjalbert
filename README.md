@@ -3,7 +3,7 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple Watch's Walkie Talkie...? Nah, Just Call Me](https://kevinjalbert.com/apple-watchs-walkie-talkie-nah-just-call-me/)
+- [Apple Watch&#39;s Walkie Talkie...? Nah, Just Call Me](https://kevinjalbert.com/apple-watchs-walkie-talkie-nah-just-call-me/)
 - [Document Storage: Migrating Evernote to Google Drive](https://kevinjalbert.com/document-storage-migrating-evernote-to-google-drive/)
 - [Stub Sleeps in Tests](https://kevinjalbert.com/stub-sleeps-in-tests/)
 - [Rails Testing: Reload the Model](https://kevinjalbert.com/rails-testing-reloading-the-model/)
