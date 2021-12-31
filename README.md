@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam Remote Play is Amazing](https://kevinjalbert.com/steam-remote-play-is-amazing/)
 - [Global Hotkeys using the Hyper Key](https://kevinjalbert.com/global-hotkeys-using-the-hyper-key/)
 - [Apple Watch&#39;s Walkie Talkie...? Nah, Just Call Me](https://kevinjalbert.com/apple-watchs-walkie-talkie-nah-just-call-me/)
 - [Document Storage: Migrating Evernote to Google Drive](https://kevinjalbert.com/document-storage-migrating-evernote-to-google-drive/)
 - [Stub Sleeps in Tests](https://kevinjalbert.com/stub-sleeps-in-tests/)
-- [Rails Testing: Reload the Model](https://kevinjalbert.com/rails-testing-reloading-the-model/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
