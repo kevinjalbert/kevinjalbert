@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Bisect: Only the Current Branch](https://kevinjalbert.com/git-bisect-only-the-current-branch/)
 - [Digging through Git History for Removed Text](https://kevinjalbert.com/digging-through-git-history-for-removed-text/)
 - [Import Raindrop.io Highlights into Readwise](https://kevinjalbert.com/import-raindrop-io-highlights-into-readwise/)
 - [Improvised Portable Smart Speaker](https://kevinjalbert.com/improvised-portable-smart-speaker/)
 - [Access Local Docker Containers by Domain Names instead of Ports](https://kevinjalbert.com/access-local-docker-containers-by-domain-names-instead-of-ports/)
-- [Quickly Toggle Fonts in Google Docs](https://kevinjalbert.com/quickly-toggle-fonts-in-google-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
