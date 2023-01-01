@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning a Webpage into a Basic iOS App](https://kevinjalbert.com/turning-a-webpage-into-a-basic-ios-app/)
 - [Getting Non-HomeKit Devices Working in HomeKit](https://kevinjalbert.com/getting-non-homekit-devices-working-in-homekit/)
 - [iOS Shortcuts: Actionable Notifications](https://kevinjalbert.com/ios-shortcuts-actionable-notifications/)
 - [Quantified Self: Measure What you Want to Manage](https://kevinjalbert.com/quantified-self-measure-what-you-want-to-manage/)
 - [Git Bisect: Only the Current Branch](https://kevinjalbert.com/git-bisect-only-the-current-branch/)
-- [Digging through Git History for Removed Text](https://kevinjalbert.com/digging-through-git-history-for-removed-text/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
