@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making AirPlay work with Chromecast Devices](https://kevinjalbert.com/making-airplay-work-with-chromecast-devices/)
 - [Sync Twitter Following to a List](https://kevinjalbert.com/sync-twitter-following-to-a-list/)
 - [Turning a Webpage into a Basic iOS App](https://kevinjalbert.com/turning-a-webpage-into-a-basic-ios-app/)
 - [Getting Non-HomeKit Devices Working in HomeKit](https://kevinjalbert.com/getting-non-homekit-devices-working-in-homekit/)
 - [iOS Shortcuts: Actionable Notifications](https://kevinjalbert.com/ios-shortcuts-actionable-notifications/)
-- [Quantified Self: Measure What you Want to Manage](https://kevinjalbert.com/quantified-self-measure-what-you-want-to-manage/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
