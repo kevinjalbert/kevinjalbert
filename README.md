@@ -3,11 +3,11 @@
 
 ### Recent Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Excalidraw&#39;s Embedded Scene Feature for Collaborative Diagramming](https://kevinjalbert.com/using-excalidraws-embedded-scene-feature-for-collaborative-diagramming/)
 - [Sharing Plex with Common Media Sense age-restrictions](https://kevinjalbert.com/sharing-plex-with-common-media-sense-age-restrictions/)
 - [Making AirPlay work with Chromecast Devices](https://kevinjalbert.com/making-airplay-work-with-chromecast-devices/)
 - [Sync Twitter Following to a List](https://kevinjalbert.com/sync-twitter-following-to-a-list/)
 - [Turning a Webpage into a Basic iOS App](https://kevinjalbert.com/turning-a-webpage-into-a-basic-ios-app/)
-- [Getting Non-HomeKit Devices Working in HomeKit](https://kevinjalbert.com/getting-non-homekit-devices-working-in-homekit/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjalbert&layout=compact&langs_count=10&hide=tex,vim script" alt="kevinjalbert" /></p>
